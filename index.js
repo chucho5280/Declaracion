@@ -1,7 +1,8 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que ibas a decir que si uwu')
+    alert('Feli Feli Feli te quiero mucho mi amor <3')
+    alert('Gracias por aparecer en mi vida <3')
 });
 
 const noBtn = document.querySelector('#noBtn');
